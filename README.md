@@ -1,7 +1,7 @@
 # Twitter Data
 
 ## Aim of this Project
-  Filter out the tweets by the user input hashtas and store them in a json file
+  Filter out the tweets by the user input hashtags and store them in a json file
   
 ## Packages used
 <ul>
